@@ -4,4 +4,4 @@ NVIDIA® 비전 프로그래밍 인터페이스 (VPI) 는 NVIDIA 임베디드 �
 
 # References
 * VPI-1.0 Webinar: https://youtu.be/vfOAvpS5Y7M
-* VPI-1.0 Webinar Keynote: 
+* VPI-1.0 Webinar Keynote: https://github.com/jugfk/NVIDIA_VPI-1.0-samples/raw/main/assets/vpi_webinar_202102.pdf

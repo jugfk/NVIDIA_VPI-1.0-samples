@@ -17,6 +17,14 @@ VPI의 핵심 구성 요소는 다음과 같습니다.
 
 ![Architecture](https://raw.githubusercontent.com/jugfk/NVIDIA_VPI-1.0-samples/main/Images/architecture.png)
 
+# 샘플 프로그램
+제공된 샘플 애플리케이션과 실행 방법에 대한 지침은 다음과 같습니다.
+
+* 1. [2D 이미지 컨볼 루션](https://github.com/jugfk/NVIDIA_VPI-1.0-samples/tree/main/01-convolve_2d)
+
+
+
+
 # References
 * VPI-1.0 Webinar: https://youtu.be/vfOAvpS5Y7M
 * VPI-1.0 Webinar Keynote: https://github.com/jugfk/NVIDIA_VPI-1.0-samples/raw/main/assets/vpi_webinar_202102.pdf
